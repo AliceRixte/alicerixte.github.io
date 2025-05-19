@@ -3,8 +3,6 @@ layout: single
 permalink: /research/
 ---
 
-# Research
-
 ## Publications
 
 {% assign pubs = site.publications | sort: "published_date" | reverse %}
