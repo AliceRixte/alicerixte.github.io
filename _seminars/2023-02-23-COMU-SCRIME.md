@@ -3,7 +3,6 @@ title: "Transformer une œuvre en live : Une approche transformationnelle de la 
 layout: single
 author_profile: true
 
-authors: Alice Rixte
 conference: "Comité des usager du SCRIME"
 location: "Université de Bordeaux, France"
 published_date: "2023-02-23"
@@ -18,7 +17,6 @@ classes: wide
 ---
 
 {% include seminar-meta.html %}
-
 
 <br/>
 

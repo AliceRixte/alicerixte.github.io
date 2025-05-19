@@ -75,7 +75,7 @@ permalink: /research/
   {% endif %}
 
 <li>
-  {{ pub.authors }}.
+  {% if pub.authors %} {{pub.authors }}.{% endif %}
   <a href="{{ pub.slides }}">{{ pub.title }}</a>.
   {% if pub.conference %} <em>{{ pub.conference }}</em>{% endif %}
   {% if pub.published_date %}. {{ pub.published_date | date: "%B %Y" }}{% endif %}
