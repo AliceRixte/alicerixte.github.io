@@ -1,0 +1,26 @@
+<div class="page__meta">
+  {% if page.pdf %}
+  <p><a href="{{ page.pdf }}" target="_blank" rel="noopener noreferrer">PDF 📄</a> | <a href="{{ page.slides }}" target="_blank" rel="noopener noreferrer">Slides </a></p>
+  {% endif %}
+  {% if page.conference %}
+    <p><strong>Conference:</strong> {{ page.conference }}</p>
+  {% endif %}
+  {% if page.location %}
+    <p><strong>Location:</strong> {{ page.location }}</p>
+  {% endif %}
+  {% if page.published_date %}
+    <p><strong>Published:</strong> {{ page.published_date }}</p>
+  {% endif %}
+  {% if page.presented_date %}
+    <p><strong>Presented:</strong> {{ page.presented_date }}</p>
+  {% endif %}
+  {% if page.abstract %}
+    <h2>Abstract</h2>
+    <p>{{ page.abstract }}</p>
+  {% endif %}
+  {% if page.abstract %}
+    <h2>Résumé</h2>
+    <p>{{ page.resumefr }}</p>
+  {% endif %}
+
+</div>
