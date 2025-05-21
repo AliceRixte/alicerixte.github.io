@@ -3,6 +3,9 @@ layout: single
 permalink: /research/
 ---
 
+**Buggy animations on Firefox and Chrome :** Some of the slides (e.g. JIM 2024) provided on this page use animations that do not play well on most browsers (e.g. Mozilla Firefox and Google Chrome). They work well on Brave and Safari. On Firefox or Chrome, you need to click on the slide to get the animation.
+{: .notice--info}
+
 ## Publications
 
 {% assign pubs = site.publications | sort: "published_date" | reverse %}

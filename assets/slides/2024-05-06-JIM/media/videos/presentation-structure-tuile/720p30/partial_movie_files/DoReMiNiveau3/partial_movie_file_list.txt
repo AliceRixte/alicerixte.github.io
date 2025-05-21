@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/DoReMiNiveau3/274514146_2642036120_3264334029.mp4'
+file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/DoReMiNiveau3/2789044632_4145168938_1792457735.mp4'
