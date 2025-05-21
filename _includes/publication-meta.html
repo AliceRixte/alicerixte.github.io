@@ -1,7 +1,7 @@
 <div class="page__meta">
-  {% if page.pdf %}
-  <p><a href="{{ page.pdf }}" target="_blank" rel="noopener noreferrer">PDF 📄</a> | <a href="{{ page.slides }}" target="_blank" rel="noopener noreferrer">Slides </a></p>
-  {% endif %}
+
+  <p> {% if page.pdf %} <a href="{{ page.pdf }}" target="_blank" rel="noopener noreferrer">PDF 📄</a> {% endif %}| {% if page.slides %} <a href="{{ page.slides }}" target="_blank" rel="noopener noreferrer">Slides </a> {% endif %}</p>
+
   {% if page.conference %}
     <p><strong>Conference:</strong> {{ page.conference }}</p>
   {% endif %}
@@ -18,7 +18,7 @@
     <h2>Abstract</h2>
     <p>{{ page.abstract }}</p>
   {% endif %}
-  {% if page.abstract %}
+  {% if page.resumefr %}
     <h2>Résumé</h2>
     <p>{{ page.resumefr }}</p>
   {% endif %}

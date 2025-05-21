@@ -12,7 +12,7 @@ slides: "/assets/slides/2023-02-23-COMU-SCRIME.pdf"
 # Meta data
 date: 2023-07-01
 permalink: /seminars/comu-scrime-2023/
-tags: [seminar, transformational theory, live electronic music]
+tags: [seminar, transformational theory, live electronic music, livescaler]
 classes: wide
 ---
 
