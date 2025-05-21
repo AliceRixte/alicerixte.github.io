@@ -5,7 +5,7 @@ author_profile: true
 
 authors: Alice Rixte, David Janin
 conference: "Journées d'Informatique Musicale"
-location: "Saint-Denis, France"
+location: "Marseille, France"
 published_date: "2024-05-06"
 
 resumefr: >

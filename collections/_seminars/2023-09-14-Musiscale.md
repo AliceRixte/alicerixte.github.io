@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 
 conference: "Journée Musiscale de l'AFIM"
-location: "CRIStAl, Lille"
+location: "Lille, France"
 published_date: "2023-09-14"
 
 slides: "/assets/slides/2023-09-14 Musiscale/Alice_Rixte-structure_tuile.html"

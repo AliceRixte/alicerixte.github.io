@@ -30,8 +30,9 @@ permalink: /research/
 <li>
   {{ pub.authors }}.
   <a href="{{ pub.pdf }}">{{ pub.title }}</a>.
-  {% if pub.conference %} <em>{{ pub.conference }}</em>{% endif %}
-  {% if pub.published_date %}. {{ pub.published_date | date: "%B %Y" }}{% endif %}
+  {% if pub.conference %} <em>{{ pub.conference }}.</em>{% endif %}
+  {% if pub.location %} {{ pub.location }}.{% endif %}
+  {% if pub.published_date %} {{ pub.published_date | date: "%B %Y" }}{% endif %}
   —
   <small>
     {% if pub.pdf %}
@@ -78,8 +79,9 @@ permalink: /research/
 <li>
   {% if pub.authors %} {{pub.authors }}.{% endif %}
   <a href="{{ pub.slides }}">{{ pub.title }}</a>.
-  {% if pub.conference %} <em>{{ pub.conference }}</em>{% endif %}
-  {% if pub.published_date %}. {{ pub.published_date | date: "%B %Y" }}{% endif %}
+  {% if pub.conference %} <em>{{ pub.conference }}.</em>{% endif %}
+  {% if pub.location %} {{ pub.location }}.{% endif %}
+  {% if pub.published_date %} {{ pub.published_date | date: "%B %Y" }}{% endif %}
   —
   <small>
     {% if pub.pdf %}
@@ -127,8 +129,9 @@ permalink: /research/
 <li>
   {% if pub.authors %} {{pub.authors }}.{% endif %}
   <a href="{{ pub.poster }}">{{ pub.title }}</a>.
-  {% if pub.conference %} <em>{{ pub.conference }}</em>{% endif %}
-  {% if pub.published_date %}. {{ pub.published_date | date: "%B %Y" }}{% endif %}
+  {% if pub.conference %} <em>{{ pub.conference }}.</em>{% endif %}
+  {% if pub.location %} {{ pub.location }}.{% endif %}
+  {% if pub.published_date %} {{ pub.published_date | date: "%B %Y" }}{% endif %}
   —
   <small>
     {% if pub.pdf %}

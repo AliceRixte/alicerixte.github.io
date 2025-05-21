@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 
 conference: "Comité des usager du SCRIME"
-location: "Université de Bordeaux, France"
+location: "Bordeaux, France"
 published_date: "2023-02-23"
 
 slides: "/assets/slides/2023-02-23-COMU-SCRIME.pdf"
