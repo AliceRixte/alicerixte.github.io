@@ -1,8 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /music/
 ---
-
-# Music
-
 

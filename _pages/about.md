@@ -3,7 +3,6 @@ layout: single
 permalink: /about/
 ---
 
-# About
 
 I'm a PhD student in computer music.
 
