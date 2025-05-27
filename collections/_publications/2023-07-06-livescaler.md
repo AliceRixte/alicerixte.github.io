@@ -19,7 +19,7 @@ slides: "/assets/slides/livescaler-slides.pdf"
 # Meta data
 date: 2023-07-01
 permalink: /publications/livescaler/
-tags: [research, machine-learning]
+tags: [publication, transformational theory, live electronic music, livescaler]
 classes: wide
 ---
 

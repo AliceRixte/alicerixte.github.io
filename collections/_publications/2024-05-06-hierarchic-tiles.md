@@ -16,8 +16,8 @@ slides: "/assets/slides/2024-05-06-JIM/Alice_Rixte-structure_tuile.html"
 
 # Meta data
 date: 2023-07-01
-permalink: /publications/livescaler/
-tags: [research, machine-learning]
+permalink: /publications/hierarchic-tiles/
+tags: [research, live electronic music, musical structure, hierarchical tiles, Domain Specific Language]
 classes: wide
 ---
 
