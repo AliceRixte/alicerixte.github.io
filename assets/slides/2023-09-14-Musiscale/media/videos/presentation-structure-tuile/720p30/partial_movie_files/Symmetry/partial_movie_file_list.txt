@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/Symmetry/274514146_2686367673_2726704596.mp4'
+file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/Symmetry/2789044632_12859371_1037610692.mp4'
+file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/Symmetry/2789044632_51972775_754367849.mp4'
