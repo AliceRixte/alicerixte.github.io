@@ -1,3 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/DoReMiMetaMeta/274514146_2134518554_1534759800.mp4'
-file 'file:E:/Documents/These/Presentations/presentation-structure-tuile/media/videos/presentation-structure-tuile/720p30/partial_movie_files/DoReMiMetaMeta/2789044632_1357856725_335339411.mp4'
