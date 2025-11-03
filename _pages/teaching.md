@@ -1,9 +1,9 @@
 ---
 layout: single
 permalink: /teaching/
+title: Teaching Experience
 ---
 
-## Teaching experience
 
 #### Sep 2023 → Jul 2025: ENSEIRB-MATMECA
 

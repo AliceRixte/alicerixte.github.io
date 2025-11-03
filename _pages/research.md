@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /research/
+title: Research
 ---
 
 **Buggy animations on Firefox and Chrome (click or use Brave or Safari):** Some of the slides (e.g. JIM 2024) provided on this page use animations that do not play well on most browsers (e.g. Mozilla Firefox and Google Chrome). They work well on Brave and Safari. On Firefox or Chrome, you need to click on the slide to get the animation.
