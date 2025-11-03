@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-## About Me
+# About me
 
 Hi there! I'm Alice Rixte, a PhD candidate in computer science at Université of Bordeaux.
 
