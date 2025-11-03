@@ -17,9 +17,7 @@ slides: "/assets/slides/2025-12-10-FARM.pdf"
 # Meta data
 date: 2025-10-12
 permalink: /publications/generalizing-turtle/
-tags: [research, turtle graphics, vector graphics, denotational se-
-mantics, monadic semantics, domain-specific language, field
-polymorphism]
+tags: [research, turtle graphics, vector graphics, denotational semantics, monadic semantics, domain-specific language, field polymorphism]
 classes: wide
 ---
 
