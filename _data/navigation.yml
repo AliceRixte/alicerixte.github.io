@@ -4,12 +4,12 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "Softwares"
-    url: /softwares/
-  - title: "Music"
-    url: /music/
-  - title: "About"
-    url: /about/
+  # - title: "Softwares"
+  #   url: /softwares/
+  # - title: "Music"
+  #   url: /music/
+  # - title: "About"
+  #   url: /about/
 
   # - title: "Sample Posts"
   #   url: /year-archive/
