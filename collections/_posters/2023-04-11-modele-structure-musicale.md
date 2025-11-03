@@ -12,7 +12,7 @@ poster: "/assets/posters/2024-04-11-model-structure-musicale.pdf"
 # Meta data
 date: 2024-04-11
 permalink: /posters/EDMI-2024/
-tags: [seminar, live electronic music, musical structure, hierarchical tiles, Domain Specific Language]
+tags: [poster, live electronic music, musical structure, hierarchical tiles, Domain Specific Language]
 classes: wide
 ---
 
