@@ -26,7 +26,7 @@ title: Teaching Experience
 
 #### Sep 2019 → Dec 2023: Private teacher in computer science
 
-* Regular students :
+* Regular students:
 
 | Student     | Period                |   Level             |   Subject                 | Hours       |
 | ----------- | --------------------- | ------------------- |  --------------------     | ---------   |
