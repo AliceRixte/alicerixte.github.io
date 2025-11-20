@@ -18,6 +18,6 @@ Currently, I am working on Pandia, a programming language to create Domain-Speci
        alt="Spirograph at FARM 2025"
        style="width: 60%; height: auto;">
   <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">
-    Curious about how to generate this? Check out my <a href="https://dl.acm.org/doi/pdf/10.1145/3759162.3759646">2025 FARM paper</a>!
+    Curious about how to generate this? Check out my <a href="https://hal.science/view/index/docid/5357448">2025 FARM paper</a>!
   </figcaption>
 </figure>
